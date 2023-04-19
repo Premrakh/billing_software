@@ -1,0 +1,20 @@
+                   	 Bill Details                   
+Bill No: 63922
+Customer Name: pooja
+Phone Number: 6355712687
+---------------------------------------------------
+Product		QTY		Price
+---------------------------------------------------
+Soap		1		20
+Cream		2		200
+Wash		2		240
+Spray		33		4950
+Gel		4		280
+Rice		1		35
+Oil		3		540
+Tea		1		400
+Redbull		1		90
+Pepsi		3		135
+Fruity		6		210
+---------------------------------------------------
+		57		7136

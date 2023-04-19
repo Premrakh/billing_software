@@ -1,0 +1,23 @@
+                   	 Bill Details                   
+Bill No: 68652
+Customer Name: atul
+Phone Number: 7620175634
+---------------------------------------------------
+Product		QTY		Price
+---------------------------------------------------
+Soap		11		220
+Cream		2		200
+Spray		3		450
+Gel		4		280
+Rice		5		175
+Oil		6		1080
+daal		7		490
+Wheat		8		240
+Sugar		9		360
+Tea		1		400
+Sprite		2		50
+Redbull		35		3150
+Limca		6		240
+Cock		7		350
+---------------------------------------------------
+		106		7723

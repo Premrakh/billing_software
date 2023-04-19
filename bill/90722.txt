@@ -1,0 +1,19 @@
+                   	 Bill Details                   
+Bill No: 90722
+Customer Name: Jayesh Jadhav
+Phone Number: 7878959520
+---------------------------------------------------
+Product		QTY		Price
+---------------------------------------------------
+Cream		2		200
+Wash		2		240
+Spray		5		750
+Rice		1		35
+Oil		3		540
+Wheat		6		180
+Tea		7		2800
+Limca		1		40
+Cock		2		100
+Pepsi		3		135
+---------------------------------------------------
+		32		5045
